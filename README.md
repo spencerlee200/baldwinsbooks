@@ -1,6 +1,5 @@
 # Baldwin's Books
-  ![Baldwin's Books Landing page]
-  (https://github.com/spencerlee200/baldwinsbooks/blob/master/bb.png)
+  ![Baldwin's Books Landing page](https://github.com/spencerlee200/baldwinsbooks/blob/master/bb.png)
   Technologies Used: Laravel, PHP, Blade, CSS3, Bootstrap,
   mySQL, and the Stripe Payment API
 
